@@ -443,7 +443,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   font-family: "Poppins", sans-serif;
-  color: #213b52;
+  color: #293b52;
 }
 
 .section-title h2::before {
@@ -944,7 +944,7 @@ section {
 }
 
 .team .member .social a {
-  color: #5289ba;
+  color: red;
   transition: 0.3s;
 }
 
